@@ -1,0 +1,277 @@
+.nav-bars {
+  margin-top: 68px;
+  margin-bottom: 84px;
+}
+.primer_nav {
+  font-family: Mulish;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #1f1534;
+}
+.navs-arriba {
+  font-family: Mulish;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #1f1534;
+}
+.boton-centrado {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+.texto-logo {
+  margin-top: 68px;
+  margin-left: 198;
+  margin-bottom: 191px;
+  font-family: Mulish;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.logo {
+  margin-top: 76px;
+  margin-left: 158px;
+}
+
+.titulo {
+  font-family: Mulish;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px;
+  letter-spacing: 0em;
+  text-align: center;
+  height: 112px;
+  width: 427px;
+  align-content: center;
+  top: 289px;
+  border-radius: nullpx;
+  margin-right: 127px;
+  margin-bottom: 25px;
+}
+.alineado {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.parrafo-1 {
+  font-family: Mulish;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+  height: 96px;
+  width: 445px;
+  left: 144px;
+  top: 426px;
+  border-radius: nullpx;
+  margin: top 25px;
+  right: 109px;
+  margin-bottom: 45px;
+}
+
+.boton-1 {
+  height: 56px;
+  width: 200px;
+  left: 144px;
+  top: 570px;
+  border-radius: 55px;
+  background: #458ff6;
+  margin-right: 394px;
+  margin-bottom: 346px;
+}
+
+.imagen-1 {
+  height: 693px;
+  width: 598px;
+}
+
+.titulo-2 {
+  margin-top: 192px;
+  margin-bottom: 61px;
+  font-family: Mulish;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.parrafo-2 {
+  text-align: center;
+  margin-bottom: 80px;
+  font-family: Mulish;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.linea {
+  margin-left: 623px;
+  width: 56px;
+  height: 2px;
+  top: 1055px;
+  margin-bottom: 33px;
+}
+
+.cards-margin {
+  margin: 33px;
+  padding: 50px;
+}
+
+.margin-de-cards {
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.boton-2 {
+  height: 56px;
+  width: 200px;
+  left: 654px;
+  top: 2047px;
+  border-radius: 55px;
+  border: 1, 4px solid #458ff6;
+  margin-bottom: 220px;
+  font-family: Mulish;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.img-cards {
+  height: 70px;
+  width: 61.85737991333008px;
+  left: 615px;
+  top: 1292px;
+  border-radius: 0px;
+}
+
+.cards {
+  height: 334px;
+  width: 320px;
+  border-radius: 20px;
+  background: #ffffff;
+  box-shadow: 10px 40px 50px 0px #e5e9f666;
+}
+
+h3 {
+  margin-top: 22px;
+  margin-bottom: 5;
+}
+
+.imagen-3 {
+  height: 477px;
+  width: 650px;
+  border-radius: 0px;
+  margin-bottom: 265px;
+  margin-right: 72px;
+}
+
+.imagen-4 {
+  height: 434px;
+  width: 665px;
+  border-radius: 0px;
+  bottom: 183px;
+  margin-left: 71px;
+  right: 210px;
+  top: 261px;
+}
+
+.bloque-fondo {
+  margin-bottom: 183px;
+}
+
+.botones-fondo {
+  height: 56px;
+  width: 200px;
+  left: 876px;
+  top: 2712px;
+  border-radius: 55px;
+  border: 1, 4px solid #458ff6 font-family Mulish;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0em;
+}
+
+.parrafos-fondo {
+  margin-bottom: 31px;
+  margin-top: 59px;
+}
+
+.titulos-fondo {
+  margin-bottom: 23px;
+}
+
+.footer {
+    height: 432px;
+    width: 100%;
+    
+    top: 3647px;
+    border-radius: 0px;
+    
+    
+    padding-top: 124px;
+    padding-left: 190px;
+    padding-bottom: 113px;
+  background: linear-gradient(183.41deg, #67c3f3 -8.57%, #5a98f2 82.96%);
+}
+
+.parrafo-footer {
+  font-family: Mulish;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
+
+.trafalgar-footer {
+  font-family: Mulish;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
+
+.nav-fondo {
+  font-family: Mulish;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.color {
+  color: #ffffff;
+}
